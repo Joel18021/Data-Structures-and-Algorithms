@@ -4,7 +4,7 @@ weight=[]
 profit=[]
 w=0
 p=0
-n=int(input("Enter No. of Items: "))
+n=int(input("Enter No. Of Items: "))
 for i in range(n):
   weight.append(int(input("Enter Weight: ")))
 for i in range(n):
